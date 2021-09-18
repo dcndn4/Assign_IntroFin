@@ -80,7 +80,13 @@ Currently Sustainalytics is focused on providing information to the investment s
 
 It has long been a maxim for the individual investor to invest in what you know. Invest in companies you have actual lived experience with, companies in your community, companies that make products you use. 
 
-My recommendation is go take into account the public's growing expectation for availability of information, and move towards a mobile app which a consumer could look up a company or even a product, and receive information about any PAIs reported, and more recently about the ESG rating for that query. This would include the same information being provided to the investment industry itself, with the same frequency of updates, but simply provided via app to a larger audience. 
+There are several [stock-trading mobile apps](https://www.stockbrokers.com/guides/mobile-trading) on the market, yet Sustainalytics has not yet joined that market. The public increasingly expects to have information at their fingertips - on their phone - for every aspect of their lives. And in fact investment ratings are started to be provided via mobile apps.
+
+My recommendation is three-fold - that Sustainalytics increase their scope to include individual investors as an information market, that they provide information at a more detailed level, and that they produce a mobile app on which to access that info.
+
+I'd like for the consumer to be able look up a company or even a product, and receive information about any PAIs reported, and more recently about the ESG rating for that query. 
+
+
 
 #### References ####
 
