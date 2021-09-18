@@ -80,7 +80,7 @@ Currently Sustainalytics is focused on providing information to the investment s
 
 It has long been a maxim for the individual investor to invest in what you know. Invest in companies you have actual lived experience with, companies in your community, companies that make products you use. 
 
-There are several [stock-trading mobile apps](https://www.stockbrokers.com/guides/mobile-trading) on the market, yet Sustainalytics has not yet joined that market. The public increasingly expects to have information at their fingertips - on their phone - for every aspect of their lives. And in fact investment ratings are started to be provided via mobile apps.
+ The public increasingly expects to have information at their fingertips - on their phone - for every aspect of their lives. And in fact investment ratings are started to be provided via mobile apps. There are several [stock-trading mobile apps](https://www.stockbrokers.com/guides/mobile-trading) on the market, including one from Merrill Lynch called Merrill Edge that does include ESG ratings.
 
 My recommendation is three-fold - that Sustainalytics increase their scope to include individual investors as an information market, that they provide information at a more detailed level, and that they produce a mobile app on which to access that info.
 
@@ -132,5 +132,7 @@ Ulick, Jake – *Wall St. deal is finalized*. CNN Money. April 28, 2003.
 U.S. Securities and Exchange Commission v. Morgan Stanley & Co, Incorporated (2003). sec.gov/litigation/complaints/comp18117.htm.
 
 Overview of the Sarbanes Oxley Act. Financial Web-Investing-Investing Basics. 
+
+Neal, Ryan W. Merrill Edge adds ESG scores to client dashboard – Update provides visuals to simplify portfolio analysis and performance review. Investment News. February 12, 2018. 
 
 
